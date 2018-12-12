@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: /sustain/
+# baseurl: /sustain/
 title: Alma Eguizabal
 author: Alma Eguizabal
 description: Personal page and resume
